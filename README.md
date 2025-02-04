@@ -1,3 +1,5 @@
+![Alt text](https://github.com/XData-si/AI-tools-info/blob/main/AI_tools_banner.jpg "a title")
+
 # AI Tools Info 🚀
 
 ## Empower Your AI Journey with the Right Tools! 🧠✨
