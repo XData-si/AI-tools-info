@@ -35,7 +35,6 @@
 
 ### Models
 
-> *More complete list of AI Models: [Awesome AI Models](https://github.com/dariubs/awesome-ai-models)*
 
 - [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code.
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - Gopher by DeepMind is a 280 billion parameter language model.
@@ -80,7 +79,6 @@
 
 ### Writing assistants
 
-*For a more complete list of AI writing assistants visit: [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)*
 
 - [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
 - [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
@@ -229,7 +227,7 @@
 
 ## Image
 
-*For a more complete list of AI Image tools visit: [Best Image AI Tools](https://github.com/mahseema/awesome-ai-tools/blob/main/IMAGE.md) or [Awesome AI Image](https://github.com/xaramore/awesome-ai-image)*
+
 
 
 ### Models
@@ -323,7 +321,7 @@
 
 ### AI Voice Cloning
 
-*You can also find more comprehensive list on [Awesome AI Music](https://github.com/xaramore/awesome-ai-music) and [There's an AI AI Voice Cloning list](https://theresanai.com/category/voice-cloning)*
+
 
 - [Descript Overdub](https://www.descript.com/overdub) - [Review](https://theresanai.com/descript-overdub) - Seamlessly integrates with Descript’s transcription and editing tools, ideal for content creators needing quick voiceovers.
 - [Respeecher](https://www.respeecher.com/) - [Review](https://theresanai.com/respeecher) -  A professional tool widely used in the entertainment industry to create emotion-rich, realistic voice clones.
@@ -340,7 +338,6 @@
 
 ### AI Music Generators
 
-*You can also find  more comprehensive list on [There's an AI AI Music Generation Tools list](https://theresanai.com/category/music-generation)*
 
 
 - [Splash Pro](https://www.splashpro.com) - [Review](https://theresanai.com/splash-pro) - A versatile platform offering intuitive music creation tools for all skill levels.
@@ -357,7 +354,6 @@
 
 ### Marketing AI Tools
 
-*You can also find  more comprehensive list on *[Marketing List](https://github.com/mahseema/awesome-ai-tools/blob/main/marketing.md)*
 
 - **[Jasper AI](https://www.jasper.ai/)** - AI-powered tool for generating marketing content like blogs, emails, and ad copy.
 - **[Mutiny](https://www.mutinyhq.com/)** - Personalization platform to improve website conversions using AI.
